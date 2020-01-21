@@ -1,4 +1,12 @@
 {
-	"item.emeraldequipment.emerald_sword": "Emerald sword",
+	"item.emeraldequipment.emerald_sword": "Emerald Sword",
+	"item.emeraldequipment.emerald_axe": "Emerald Axe",
+	"item.emeraldequipment.emerald_pickaxe": "Emerald Pickaxe",
+	"item.emeraldequipment.emerald_shovel": "Emerald Shovel",
+	"item.emeraldequipment.emerald_hoe": "Emerald Hoe",
+	"item.emeraldequipment.emerald_helmet": "Emerald Helmet",
+	"item.emeraldequipment.emerald_leggings": "Emerald Leggings",
+	"item.emeraldequipment.emerald_chestplate": "Emerald Chestplate",
+	"item.emeraldequipment.emerald_boots": "Emerald Boots",
     "itemGroup.emeraldequipment": "Emerald Equipment"
 }

@@ -2,9 +2,9 @@
     "type": "minecraft:crafting_shaped",
     "pattern":
     [
-        "eee",
         "e e",
-        "e e"
+        "eee",
+        "eee"
     ],
     "key":
     {
@@ -15,6 +15,6 @@
     },
     "result":
     {
-        "item": "emeraldequipment:emerald_leggings"
+        "item": "emeraldequipment:emerald_chestplate"
     }
 }
